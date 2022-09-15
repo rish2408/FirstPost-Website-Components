@@ -1,4 +1,4 @@
-# FirstPost-Website-Navbar-Sidenbar-Footer-
+# FirstPost-Website-Components
 I have created a Navbar, Footer and Sidebar for FirstPost Website using import and export functionality
 
 ### Live Demo Website:
